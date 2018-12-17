@@ -23,7 +23,7 @@
 		<header>	
 			<div id="headbox">
 				<span class="name">Marcin Cendrowski<br></span>
-				<span class="title">InÅ¼ynier Mechatroniki</span>
+				<span class="title">In¿ynier Mechatroniki</span>
 			</div>
 		</header>
 		
@@ -32,7 +32,7 @@
 			<div class="experience">
 			
 				<div class="head">
-					<span>DoÅ›wiadczenie</span>
+					<span>Doœwiadczenie</span>
 				</div>
 				
 				
@@ -58,7 +58,7 @@
 						</div>
 						
 						<div class="info">
-							<span>Integracja pracy maszyn z systemami IT. WdraÅ¼enia elementÃ³w koncepcji przemyslu 4.0. Analizy biznesowe</span>
+							<span>Integracja pracy maszyn z systemami IT. Wdra¿enia elementów koncepcji przemyslu 4.0. Analizy biznesowe</span>
 						</div>
 				
 				</div>
@@ -88,7 +88,7 @@
 						</div>
 						
 						<div class="info">
-							<span>ZarzÄ…dzanie 5-osobowym zespoÅ‚em serwisu automatyki budynkowej. ObsÅ‚uga klientÃ³w. Przeprowadzanie serwisu automatyki budynkowej.</span>
+							<span>Zarz¹dzanie 5-osobowym zespo³em serwisu automatyki budynkowej. Obs³uga klientów. Przeprowadzanie serwisu automatyki budynkowej.</span>
 						</div>
 				
 				</div>
@@ -118,7 +118,7 @@
 						</div>
 						
 						<div class="info">
-							<span>Realizacja pomiaru zasiÄ™gu sieci oraz weryfikacja nadajnikÃ³w.</span>
+							<span>Realizacja pomiaru zasiêgu sieci oraz weryfikacja nadajników.</span>
 						</div>
 				
 				</div>
@@ -148,7 +148,7 @@
 						</div>
 						
 						<div class="info">
-							<span>Konfiguracja sprzÄ™tu i oprogramowania. Wsparcie uÅ¼ytkownikÃ³w na terenie obiektu.</span>
+							<span>Konfiguracja sprzêtu i oprogramowania. Wsparcie u¿ytkowników na terenie obiektu.</span>
 						</div>
 				
 				</div>
@@ -178,7 +178,7 @@
 						</div>
 						
 						<div class="info">
-							<span>ZarzÄ…dzanie 15-osobowym zespolem. Kontrolowanie realizacji celÃ³w firmy. Rekrutacja i szkolenie nowych pracownikÃ³w. ObsÅ‚uga oraz pozyskiwanie nowych klientÃ³w. </span>
+							<span>Zarz¹dzanie 15-osobowym zespolem. Kontrolowanie realizacji celów firmy. Rekrutacja i szkolenie nowych pracowników. Obs³uga oraz pozyskiwanie nowych klientów. </span>
 						</div>
 				
 				</div>
@@ -204,11 +204,11 @@
 						</div>
 						
 						<div class="state">
-							<span>Lektor warsztatÃ³w edukacyjnych</span>
+							<span>Lektor warsztatów edukacyjnych</span>
 						</div>
 						
 						<div class="info">
-							<span>Prowadzenie zajÄ™Ä‡ z robotyki oraz programowania.</span>
+							<span>Prowadzenie zajêæ z robotyki oraz programowania.</span>
 						</div>
 				
 				</div>
@@ -218,7 +218,7 @@
 			
 			
 			
-												<!-- Koniec doÄŠÂ›wiadczenia -->				
+												<!-- Koniec doC?wiadczenia -->				
 				
 			
 			
@@ -246,7 +246,7 @@
 						</div>
 						
 						<div class="department">
-							<span>Studia magisterskie - WydziaÅ‚ Elektroniki i Technik Informacyjnych </span>
+							<span>Studia magisterskie - Wydzia³ Elektroniki i Technik Informacyjnych </span>
 						</div>
 						
 						<div class="info">
@@ -274,11 +274,11 @@
 						</div>
 						
 						<div class="department">
-							<span>Studia inÅ¼ynierskie - WydziaÅ‚ Mechatroniki</span>
+							<span>Studia in¿ynierskie - Wydzia³ Mechatroniki</span>
 						</div>
 						
 						<div class="info">
-							<span>Kierunek: Automatyka i Robotyka/Mechatronika<br><br>Badania zrealizowane w ramach projektu:<br>Grant NCBiR w ramach programu badaÅ„ stosowanych nr PBS2/B6/16/2013</span>
+							<span>Kierunek: Automatyka i Robotyka/Mechatronika<br><br>Badania zrealizowane w ramach projektu:<br>Grant NCBiR w ramach programu badañ stosowanych nr PBS2/B6/16/2013</span>
 						</div>
 				
 				</div>	
@@ -299,7 +299,7 @@
 				<div class="infobox">
 				
 						<div class="company">
-							<span>I Liceum OgÃ³lnoksztalcace w EÅ‚ku</span>
+							<span>I Liceum Ogólnoksztalcace w E³ku</span>
 						</div>
 						
 						<div class="info">
@@ -346,7 +346,7 @@
 					</div>
 				</div>
 
-														<!-- Koniec kursÃ³w -->
+														<!-- Koniec kursów -->
 							
 			</div>
 				
@@ -370,7 +370,7 @@
 				</div>
 				
 				<div class="detail">
-					<span>ul. StanisÅ‚awa Mikolajczyka 4/28<br>03-984 Warszawa</span>					
+					<span>ul. Stanis³awa Mikolajczyka 4/28<br>03-984 Warszawa</span>					
 				</div>
 				
 								
@@ -402,7 +402,7 @@
 			
 				<div class="head">
 				
-					<span>UmiejÄ™tnoÅ›ci</span>
+					<span>Umiejêtnoœci</span>
 				
 				</div>	
 				
@@ -415,7 +415,7 @@
 
 				<div class="head">
 				
-					<span>JÄ™zyki</span>
+					<span>Jêzyki</span>
 				
 				</div>
 				
@@ -475,7 +475,7 @@
 
 				<div class="text">
 				
-					<span>piÅ‚ka noÅ¼na, informatyka, matematyka</span>
+					<span>pi³ka no¿na, informatyka, matematyka</span>
 				
 				</div>				
 			
@@ -487,7 +487,7 @@
 		
 			<div class="clause">
 			
-				<span>WyraÅ¼am zgodÄ™ na przetwarzanie moich danych osobowych przez SII Sp. z o.o. w celu prowadzenia rekrutacji na aplikowane przeze mnie stanowisko.</span>
+				<span>Wyra¿am zgodê na przetwarzanie moich danych osobowych przez SII Sp. z o.o. w celu prowadzenia rekrutacji na aplikowane przeze mnie stanowisko.</span>
 			
 			</div>
 		
